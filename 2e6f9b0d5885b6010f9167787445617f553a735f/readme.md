@@ -2,4 +2,4 @@
 
 Read me 2
 
-Go to [Home docs](/docs)
+Go to [Home docs](/doc)
