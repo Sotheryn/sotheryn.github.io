@@ -17,5 +17,5 @@ Curabitur sed pellentesque quam. Nam at scelerisque magna.
 - [Praesent](/praesent)
 
 ## Extra Folder Index
-- [Sed](/folder/sed)
-- [Donec](/folder/donec) 
+- [Sed](/2e6f9b0d5885b6010f9167787445617f553a735f/sed)
+- [Donec](/2e6f9b0d5885b6010f9167787445617f553a735f/donec) 
