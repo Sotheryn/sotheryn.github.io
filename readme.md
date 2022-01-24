@@ -14,7 +14,7 @@ Curabitur sed pellentesque quam. Nam at scelerisque magna.
 
 ## External Index
 - [Aenean](/aenean)
-- [Praesent)(/praesent)
+- [Praesent](/praesent)
 
 ## Extra Folder Index
 - [Sed](/folder/sed)
