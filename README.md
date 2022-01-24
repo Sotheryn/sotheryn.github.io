@@ -4,7 +4,7 @@ Hello World
 
 Go to [Chapter 2](#Chapter-2)
 
-
+Or [Docs](/doc)
 
 
 ---
