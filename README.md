@@ -2,7 +2,7 @@
 
 Hello World
 
-Go to [Chapter 2](##Chapter 2)
+Go to [Chapter 2](#Chapter 2)
 
 
 
