@@ -20,4 +20,3 @@ Curabitur sed pellentesque quam. Nam at scelerisque magna.
 - [Sed](/folder/sed)
 - [Donec](/folder/donec) 
 
-![Image](/grunge-patterns.jpg)
