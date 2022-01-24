@@ -19,4 +19,3 @@ Curabitur sed pellentesque quam. Nam at scelerisque magna.
 ## Extra Folder Index
 - [Sed](/folder/sed)
 - [Donec](/folder/donec) 
-
